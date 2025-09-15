@@ -16,13 +16,7 @@ Este proyecto cumple con las historias de usuario definidas en el reto de [freeC
 
 ---
 
-## 📋 Historias de Usuario
-
-1. Debes tener un elemento de entrada con `id="text-input"`.
-2. Debes tener un botón con `id="check-btn"`.
-3. Debes tener un elemento de resultado con `id="result"`.
-4. Si el campo está vacío y haces clic en el botón, aparece un `alert` con:
-5. Ejemplos de entrada → salida esperada:
+## 📋 Ejemplos de entrada → salida esperada:
 
 | Entrada                         | Salida                                                      |
 |---------------------------------|-------------------------------------------------------------|
@@ -55,3 +49,7 @@ Este proyecto cumple con las historias de usuario definidas en el reto de [freeC
 1. Clona este repositorio:
 ```bash
 git clone https://github.com/kikecastillocolombia/palindrome-checker.git
+```
+2. Abre el archivo index.html en tu navegador.
+
+3. Escribe una palabra o frase y presiona el botón Check.
